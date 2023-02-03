@@ -1,4 +1,21 @@
+<h1 align="center">Hi 👋, I'm Prem Shah</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=premshah76&label=Profile%20views&color=0e75b6&style=flat" alt="premshah76" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=premshah76" alt="premshah76" /></a> </p>
+
+- 🔭 I’m currently working on **React**
+
+- 🌱 I’m currently learning **React**
+
+- 💬 Ask me about **Html, Css, Javascript, React.js**
+
+- 📫 How to reach me **shahprem76@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prem-shah-bb8335247/) 
 
